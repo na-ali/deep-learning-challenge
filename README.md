@@ -43,7 +43,8 @@ alphabet-soup-charity/
 │ └── AlphabetSoupCharity_Optimization_3.ipynb
 
 ├── README.md
-└── 
+
+└── Report on the Neural Network Model
 
 ## Data Preprocessing
 
